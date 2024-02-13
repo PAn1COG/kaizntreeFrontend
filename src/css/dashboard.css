@@ -1,0 +1,46 @@
+.dashboard-container {
+    padding: 20px;
+  }
+  
+  .dashboard-title {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .filter-form {
+    margin-bottom: 20px;
+  }
+  
+  .items-title {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .item-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .item-list li {
+    margin-bottom: 10px;
+  }
+  
+  .no-items-message {
+    font-style: italic;
+  }
+  
+  .categories-title {
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .category-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .category-list li {
+    margin-bottom: 10px;
+  }
+  
